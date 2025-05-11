@@ -3,3 +3,6 @@ BookBazaar-MERN is a full-stack web application built using the MERN stack (Mong
 
 
 In the process......
+
+![image](https://github.com/user-attachments/assets/e08a510d-80ba-4183-85f5-f87e7a0ee431)
+
