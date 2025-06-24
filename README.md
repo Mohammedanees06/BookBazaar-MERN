@@ -1,7 +1,7 @@
 # BookBazaar-MERN
 BookBazaar-MERN is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, TailwindCSS and Node.js) designed to streamline book inventory management. It enables users to browse, purchase, and review books while providing an intuitive admin panel for efficient inventory control.
 
-User Section:
+<h1>User Section: </h1>  
 
 ![image](https://github.com/user-attachments/assets/77de299b-c839-4611-8783-4502a630acd5)
 
@@ -21,7 +21,11 @@ User Section:
 ![image](https://github.com/user-attachments/assets/3701ddfa-f042-4ed8-b48d-b5855f32db2b)
 
 
-Admin Section:
+
+
+
+
+<h1>Admin Section: </h1>
 
 ![image](https://github.com/user-attachments/assets/c98b1742-dc04-4d94-873d-5eb4af8420f3)
 
