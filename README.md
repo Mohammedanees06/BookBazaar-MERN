@@ -1,5 +1,3 @@
-Here’s a polished and more professional version of your project description with improved structure, clarity, and consistency in formatting:
-
 ---
 
 # 📚 BookBazaar-MERN
