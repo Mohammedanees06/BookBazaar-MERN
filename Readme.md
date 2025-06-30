@@ -41,6 +41,12 @@ Admins can:
 * Monitor user reviews and sales activity
 
 ![Admin Dashboard](https://github.com/user-attachments/assets/c98b1742-dc04-4d94-873d-5eb4af8420f3)
+
+
+ Made with 💻 by Mohammed Anees  
+
+🔗 [LinkedIn](https://linkedin.com/in/mohammedaneesdev)  
+💻 [GitHub](https://github.com/Mohammedanees06)
 ![Book Management](https://github.com/user-attachments/assets/7df81d86-fb80-468f-a4bb-e2c85e4a243b)
 
 ---
