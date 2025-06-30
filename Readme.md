@@ -56,7 +56,7 @@ Admins can:
 
 🔗 [LinkedIn](https://linkedin.com/in/mohammedaneesdev)  
 💻 [GitHub](https://github.com/Mohammedanees06)
-![Book Management](https://github.com/user-attachments/assets/7df81d86-fb80-468f-a4bb-e2c85e4a243b)
+
 
 ---
 
