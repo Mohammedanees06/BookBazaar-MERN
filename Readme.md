@@ -12,7 +12,7 @@
 * **Real-time Updates** powered by a modern React frontend and robust backend
 
 ---
-##  Screenshorts
+##  Screenshots
 
 ![Image](https://github.com/user-attachments/assets/065593af-5a26-4126-9e12-5a5f1f5bc87a)
 ![Image](https://github.com/user-attachments/assets/b8808ece-9695-49a8-aea5-ee1072dbc584)
